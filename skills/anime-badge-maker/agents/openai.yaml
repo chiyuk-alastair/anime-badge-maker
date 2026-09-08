@@ -1,0 +1,7 @@
+interface:
+  display_name: "Anime Badge Maker"
+  short_description: "Create anime badge art and realistic physical mockups"
+  default_prompt: "Use $anime-badge-maker to turn my uploaded character references into circular badge artwork and a realistic physical badge mockup."
+
+policy:
+  allow_implicit_invocation: true
